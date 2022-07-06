@@ -185,7 +185,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: inline-block;
     color: black;
-    background-color: #DE3163;
+    background-color: #de31629b;
     font-weight: 400;
     margin-bottom: 3%;
     margin-left: 15px;
@@ -195,4 +195,45 @@ body{
     padding-bottom: 1%;
     border: 2px solid rgba(255, 166, 0, 0.555);
     border-radius: 10px;
+}
+.contrubute{
+    display: flex;
+    margin: 20px;
+    margin-top: 8%;
+}
+.floodinfo{
+    width: 30%;
+    margin-left: 10%;
+}
+.para-cont{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    text-align: justify;
+    padding-right: 30px;
+    margin-top: -20px;
+    margin-bottom: 5%;
+}
+.contributebutton{
+    width: 250px;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    color: black;
+    background-color: rgba(235, 67, 177, 0.359);
+    font-weight: 400;
+    margin-bottom: 3%;
+    margin-left: 15px;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 10px;
+}
+#img{
+    width: 85%;
+    margin-left: 1%;
+    padding: 10%;
+    border-radius: 100px;
 }
