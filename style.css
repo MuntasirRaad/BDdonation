@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+    margin: 0px;
+}
+.head{
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: rgb(253, 252, 250);
+    padding: 11.8%;
+}
+#Mheader{
+    font-size: 80px;
+}
+#span-1{
+   color: rgb(177, 86, 86);
+}
+.Para-intro{
+    font-size: 20px;
+    color: rgb(236, 237, 246);
+    margin-left: 21%;
+    margin-right: 21%;
+    padding-top:.2%;
+    padding-bottom: 3%;
+}
+.linkOption{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 25px;
+    background-color:rgb(214, 94, 81);
+    margin: 10%;
+}
