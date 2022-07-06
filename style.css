@@ -50,14 +50,14 @@ body{
     margin-right: 5%;
     padding-left: 10%;
     padding-right: 10%;
-    padding-bottom: 10%;
+    padding-bottom: 5%;
 }
 .DoantionAmountt{
     display: inline;
     margin: 20px;
 }
 .button{
-    font-size: 50px;
+    font-size: 40px;
     text-decoration: none;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -77,6 +77,10 @@ body{
 .button:hover{
     background-color: rgba(80, 255, 92, 0.538);
     color: rgba(14, 17, 15, 0.538);
+}
+.epay{
+    image-rendering: auto;
+    padding: 1px;
 }
 #Other{
     font-size: 35px;
