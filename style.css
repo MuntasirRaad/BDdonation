@@ -245,7 +245,7 @@ body{
     font-size: 20px;
     font-weight: 300;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgba(204, 75, 213, 0.71);
+    color: rgba(24, 136, 15, 0.521);
     text-align: center;
     margin-left: 13%;
     margin-right: 13%;
@@ -253,13 +253,26 @@ body{
     padding-right: 10.5%;
     padding-bottom: 5%;
 }
+.subs{
+    display: flex;
+    background-color: #e5cf9e69;
+    height: 60px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: -10px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
 .footer{
     background-color: black;
     text-align: center;
     padding-top: 10px;
     box-sizing: border-box;
+    margin-top: 5%;
     margin-bottom: -10%;
-
 }
 #footerhead{
     color: brown;
